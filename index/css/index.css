@@ -1,0 +1,31 @@
+#sec{
+	position: absolute;
+	/*height: 100px;*/
+	top: -220px;
+	right:-140px;
+}
+#fir{
+	position: relative;
+	
+}
+/*button:hover{
+	background-color: #ec524b;
+}*/
+#show:hover{
+	background-color: rgb(0, 255, 21);
+}
+h1:hover{
+color: green;
+}
+button:hover{
+	background-color:+ blue;
+}
+.w:hover{
+	background-color: green;
+}
+.hov:hover{
+	background-color: red;
+}
+.a{
+	visibility: hidden;
+}
